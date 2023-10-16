@@ -9,6 +9,13 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/jenny-boucher-technurse/))
 
 ### :hammer_and_wrench: Languages and Tools :
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,bash,figma,latex,vscode,)](https://skillicons.dev)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jboucher154&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+
+
+<!--
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -23,13 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
 
 </div>
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jboucher154&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-
-
-<!--
 **jboucher154/jboucher154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
