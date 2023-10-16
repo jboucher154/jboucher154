@@ -9,12 +9,10 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/jenny-boucher-technurse/))
 
 ### :hammer_and_wrench: Languages and Tools :
-| My Skills                            |Most Used Languages                     |
+
+| My Skills                            |Most Used Languages                           |
 |----------------------------------------|--------------------------------------|
-|[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,bash,figma,latex,vscode,)](https://skillicons.dev)|[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jboucher154)](https://github.com/anuraghazra/github-readme-stats&hide=roff)|
-
-
-
+| [![](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,bash,figma,latex,vscode&perline=7)](https://skillicons.dev) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jboucher154)](https://github.com/anuraghazra/github-readme-stats&hide=roff)|
 
 <!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jboucher154&show_icons=true&count_private=true&hide=prs&theme=radical)
