@@ -11,7 +11,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,bash,figma,latex,vscode,)](https://skillicons.dev)
 
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=jboucher154)](https://github.com/anuraghazra/github-readme-stats&hide=roff)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jboucher154)](https://github.com/anuraghazra/github-readme-stats&hide=roff)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jboucher154&show_icons=true&count_private=true&hide=prs&theme=radical)
 
