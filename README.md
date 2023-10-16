@@ -12,7 +12,7 @@
 
 | My Skills                            |Most Used Languages                           |
 |----------------------------------------|--------------------------------------|
-| [![](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,bash,figma,latex,vscode&perline=7)](https://skillicons.dev) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jboucher154&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)
+| [![](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,bash,figma,latex,vscode&perline=7)](https://skillicons.dev) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jboucher154&bg_color=ffffff00&text_color=0055ff)](https://github.com/anuraghazra/github-readme-stats)
 |
 
 <!--
