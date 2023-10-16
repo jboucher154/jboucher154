@@ -1,7 +1,5 @@
 ### Hi there, I'm Jenny 👋
 
-### About Me:
-
 - 😄 Pronouns: she / her
 - 👩‍⚕️ Nurse turned tech enthusiast
 - 🌎 From Orcas Island, now embracing the vibrant tech scene in Helsinki.
