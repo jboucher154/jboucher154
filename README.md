@@ -3,7 +3,7 @@
 - 😄 Pronouns: she / her
 - 👩‍⚕️ Nurse turned tech enthusiast
 - 🌎 From Orcas Island, now embracing the vibrant tech scene in Helsinki.
-- 🌱 I’m currently learning: How to make a web server in C++
+- 🌱 I’m currently learning: Docker and devops!
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/jenny-boucher-technurse/))
 
 ### :hammer_and_wrench: Languages and Tools :
