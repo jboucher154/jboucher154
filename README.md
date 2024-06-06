@@ -1,7 +1,7 @@
 ### Hi there, I'm Jenny 👋
 
 - 😄 Pronouns: she / her
-- 👩‍⚕️ Nurse turned tech enthusiast
+- 👩‍⚕️ Budding software dev finishing 42 School curriculum
 - 🌎 From Orcas Island, now embracing the vibrant tech scene in Helsinki.
 - 🌱 I’m currently learning: Docker, devops, and python!
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/jenny-boucher-technurse/))
@@ -10,7 +10,7 @@
 
 | My Skills                            |Most Used Languages                           |
 |----------------------------------------|--------------------------------------|
-| [![](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,bash,figma,latex,vscode,docker&perline=7)]() | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jboucher154&bg_color=000000&text_color=ffffff)]()
+| [![](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,bash,figma,latex,vscode,docker,django,postgres&perline=7)]() | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jboucher154&bg_color=000000&text_color=ffffff)]()
 
 
 <!--
