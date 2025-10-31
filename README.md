@@ -1,6 +1,6 @@
 ### Hi there, I'm Jenny (she/her) 👋
 
-- 👩‍⚕️ Completed 42 School curriculum
+- 👩‍⚕️ 42 School Alumni
 - 🌎 From Orcas Island, embracing the vibrant tech scene in Helsinki.
 - 🌱 I’m currently: working on my project CheckRepublic
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/jenny-boucher-technurse/))
